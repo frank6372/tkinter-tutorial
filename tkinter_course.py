@@ -1,5 +1,5 @@
 from tkinter import *
-
+# main information required 
 root = Tk()
 root.title("My first GUI")
 root.geometry("1200x1000")
